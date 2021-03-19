@@ -18,7 +18,7 @@ class Color{
                                         this.set_color("color4");
                                                                     });
                                             if(localStorage.getItem("COLOR")== null){
-                                      document.body.style.background ="yellow";
+                                      document.body.style.background ="red";
                                       
                                                                                               }
                                                                                               set_color(localStorage.getItem("COLOR")) ;      
