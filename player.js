@@ -23,7 +23,7 @@ this.play_pauseb.addEventListener("click",()=>{
 this.names_radio = [];
 this.names_radio[0]="Radio Algerie";
 this.names_radio[1]="Radio Maroc";
-this.names_radio[2]="Radio Internationale";
+this.names_radio[2]="Radio International";
 this.source_audio = [];
 this.source_audio[0]="https://ch1.ice.infomaniak.ch/ch1-32.aac";
 this.source_audio[1]="http://yayin.firatfm.com:3065/;audio.mp3&bufferlength=2&volume=100&streamer=rtmp://wowza.firatfm.com:3270/shoutcast/firatfm&skin=https://www.firatfm.com/ekle/yanyesil/videosmartclassic.zip&autostart=true&stretching=fill";
